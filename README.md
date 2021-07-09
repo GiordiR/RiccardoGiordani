@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GiordiR
 - 👀 I’m interested in Computational Fluid Dynamics and programming
-- 🌱 I’m currently learning python and OpenFOAM
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning OpenFOAM, Python and Machine Learning
+- 💞️ I’m looking to collaborate on new projects!!!
 - 📫 How to reach me riccardo.giordani93@gmail.com
 
 <!---
