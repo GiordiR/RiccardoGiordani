@@ -5,7 +5,7 @@
 - 📫 How to reach me riccardo.giordani93@gmail.com
 
 SKILLS
-- Workflow automation --> bash scripting, python (os)
+- Workflow automation --> bash scripting, python 
 - Data manipulation and visualization --> MATLAB, Python (pandas, scipy, numpy, matplotlib), Microsoft Excel/VBA
 - Scientific Software development --> C, C++, FORTRAN
 - GUI development --> MATLAB
